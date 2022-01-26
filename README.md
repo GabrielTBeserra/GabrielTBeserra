@@ -3,9 +3,8 @@
 ### Seja bem vindo ao meu perfil, onde posto todos os projetos que fiz ou participei
 
 ## Sobre
-* Meu nome é Gabriel Teles Beserra
+* Meu nome é Gabriel
 * Moro em Ribeirão Preto - SP
-* Estudante da Engenharia De Software
 * E as linguagens que mais estudei foram: Java e JavaScript
 * Apaixonado por Desenvolvimento
 
