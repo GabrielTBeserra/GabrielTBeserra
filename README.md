@@ -8,17 +8,6 @@
 * E as linguagens que mais estudei foram: Java e JavaScript
 * Apaixonado por Desenvolvimento
 
-
-## Alguns dos cursos que ja fiz
-
-[C# COMPLETO Programação Orientada a Objetos](https://www.udemy.com/course/programacao-orientada-a-objetos-csharp) > [Certificado](https://www.udemy.com/certificate/UC-6ec6af4b-e062-479f-82c1-dd38cf901767/) <hr/>
-
-[Java 2021 COMPLETO: Do Zero ao Profissional](https://www.udemy.com/course/fundamentos-de-programacao-com-java) > [Certificado](https://www.udemy.com/certificate/UC-I83TK787/)<hr/>
-
-[Curso completo de Desenvolvimento Web](https://www.udemy.com/course/curso-completo-do-desenvolvedor-web) > [Certificado](https://www.udemy.com/certificate/UC-542bd747-4d3c-4ce8-9e0f-07f04440c308/)
-<hr/>
-
-[Curso Web Moderno Completo com JavaScript 2021 + Projetos](https://www.udemy.com/course/curso-web/) > [Certificado](https://www.udemy.com/certificate/UC-8ba88bf9-e050-491e-9aaf-91f63aaaa047/)
 <hr/>
 
 ### Linguagens,Frameworks e Tecnologias que ja usei ou fiz algum projeto
