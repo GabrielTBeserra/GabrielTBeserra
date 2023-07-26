@@ -5,7 +5,7 @@
 ## Sobre
 * Meu nome é Gabriel
 * Moro em Ribeirão Preto - SP
-* E as linguagens que mais estudei foram: Java e JavaScript
+* E as linguagens que mais tenho dominio: C# e Javascript
 * Apaixonado por Desenvolvimento
 
 <hr/>
